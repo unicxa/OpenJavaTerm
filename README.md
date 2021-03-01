@@ -1,3 +1,5 @@
+![Unicxa, Logo](https://unicxa.github.io/LOGO.png)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # OpenJavaTerm
 A Basic Java Shell Term used for STDIN Pipelines
 ## About
