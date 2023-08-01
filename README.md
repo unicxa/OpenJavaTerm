@@ -38,7 +38,7 @@ considering you managed to run the native jar after the GPL license is shown and
 # help menu
 to display a help menu run the command `help`this command will list more commands and there syntax.
 
-#CLI
+# CLI
 to run you native OS CLI simply execute:
 
 `cmd <SystemCommand>`
