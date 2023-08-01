@@ -55,6 +55,6 @@ via linux.
 
 
 Additionally commands with more arguments can be executed for example.
-'cmd ping google.com'
+`cmd ping google.com`
 
 
