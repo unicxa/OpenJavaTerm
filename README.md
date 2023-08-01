@@ -27,7 +27,27 @@ For anyone that wants to contribute please feel free to fork and send a merge re
 our team will be more then delighted for any extra Developers / (Alpha / Beta) Testers.
 ## What if I Find a Issue
 Please Submit a Ticket and our team will assist you in a timely mannor
+##Running 
+Running is simple for right now intill I design the wrapper simply open Command Prompt and execute:
+'java -jar <FileName>.jar'
+##Pipeline Commands 
+considering you managed to run the native jar after the GPL license is shown and build version number id displayed you will see a basic CLI with a flashing bracket lets learn to run commands.
+
+#help menu
+to display a help menu run the command 'help' this command will list more commands and there syntax.
+
+#CLI
+to run you native OS CLI simply execute;
+'cmd <SystemCommand>'
+
+Example:
+'cmd systeminfo'
+via windows, or
+'cmd uname' 
+via linux.
 
 
+Additionally commands with more arguments can be executed for example.
+'cmd ping google.com'
 
 
